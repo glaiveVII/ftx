@@ -1,4 +1,6 @@
-# FTX Python client
+# Previous without websocket infra (low freq : spot and futures above 1h) 
+
+# FTX Python client 
 
 A Unofficial Python3 library to interact with [FTX's](https://ftx.com/) API. The library can be used to fetch market
 data, make trades, place orders or create third-party clients.
